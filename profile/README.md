@@ -12,7 +12,7 @@
 
 **▢** Bitrall Engine
 
-**</>**PHPP | PYTHON | JS
+**</>** PHP | PYTHON | JS
 
 **√Powered by {** Halforest **}**
 
