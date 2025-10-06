@@ -16,8 +16,8 @@
 
 **√Powered by {** Halforest **}**
 
-**|---** [`commander`](https://github.com/xqb-dpx)
+**|--->** [`commander`](https://github.com/xqb-dpx)
 
-**|---** [`Hamed Toluei`](https://github.com/hamedtl)
+**|--->** [`Hamed Toluei`](https://github.com/hamedtl)
 
 ![.](https://github.com/xqb-dpx/xqb-dpx/blob/main/img/footer.svg)
