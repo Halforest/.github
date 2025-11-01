@@ -16,4 +16,4 @@
 
 **|--->** (Amid Karani) [`cmd_er`](https://github.com/xqb-dpx)
 
-**|--->** (Hamed Toluei) [`HamedTL`](https://github.com/hamedtl)
+**|--->** (Hamed Toluei) [`HamedTl`](https://github.com/hamedtl)
