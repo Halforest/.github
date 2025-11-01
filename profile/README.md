@@ -14,6 +14,6 @@
 
 **√Powered by {** Halforest **}**
 
-**|--->** [`commander`](https://github.com/xqb-dpx)
+**|--->** [`Amid Karani`](https://github.com/xqb-dpx)
 
 **|--->** [`Hamed Toluei`](https://github.com/hamedtl)
