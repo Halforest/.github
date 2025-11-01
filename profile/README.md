@@ -10,7 +10,7 @@
 
 **▢** Bitrall Engine
 
-**</>** PHP | PYTHON | C# | HTML5 | CSS3 | JS
+**</>** `PHP | PYTHON | C# | HTML5 | CSS3 | JS`
 
 **√Powered by {** Halforest **}**
 
