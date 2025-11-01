@@ -1,5 +1,3 @@
-![.](https://github.com/Halforest/.github/blob/main/profile/logo.png)
-
 ## **⁞ B!t ∆I ASSI§TANT**
 
 **¿?** coming soon...
