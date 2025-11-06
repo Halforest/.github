@@ -12,8 +12,8 @@
 
 **</>** `PHP | PYTHON | C# | HTML5 | CSS3 | JS`
 
-**√Powered by {** Halforest **}**
+**√Powered by {** Teamemories **}**
 
-**|--->** (Amid Karani) [`cmd_er`](https://github.com/xqb-dpx)
+**|--->** [`cmd_er`](https://github.com/xqb-dpx)
 
-**|--->** (Hamed Toluei) [`HamedTl`](https://github.com/hamedtl)
+**|--->** [`HamedTl`](https://github.com/hamedtl)
